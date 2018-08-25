@@ -1,6 +1,7 @@
 [{
-    "name": "388_chrome",
-    "pid": 388
+    "name": "4380_chrome",
+    "pid": 4380,
+    "test": "yellow"
 }, {
     "name": "2320_chrome",
     "pid": 2320
